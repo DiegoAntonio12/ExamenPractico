@@ -1,0 +1,43 @@
+.bg-negro {
+    background-color: #161616;
+}
+
+.bg-gris {
+    background-color: #DFDFDF;
+}
+
+.bg-mostaza {
+    background-color: #CC9A48;
+}
+
+.text-mostaza {
+    color: #CC9A48;
+}
+
+.text-verdeoscuro {
+    color: #13361C;
+}
+
+.text-cafe {
+    color: #826343;
+}
+
+.text-negro {
+    color: #161616;
+}
+
+.border-verdeoscuro {
+    border-color: #212717;
+}
+
+.bg-mostaza:hover {
+    background-color: #826343;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.shadow-sm {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
+}
